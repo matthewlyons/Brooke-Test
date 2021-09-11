@@ -1,0 +1,22 @@
+{
+  "name": "manager-scrape-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aamerica.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "lodash": "^4.17.20",
+    "osmosis": "file:../node-osmosis",
+    "puppeteer": "^10.2.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-recaptcha": "^3.4.0",
+    "twilio": "^3.52.0",
+    "xlsx": "^0.16.7"
+  }
+}
